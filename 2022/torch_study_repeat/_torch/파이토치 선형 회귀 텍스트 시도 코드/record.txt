@@ -1,0 +1,279 @@
+------date-----------
+2021-04-14 04:19:42.761312
+------date-----------
+[tensor([[73., 80., 75.],
+        [73., 66., 70.]]), tensor([[152.],
+        [142.]])]
+Epoch    0/20 Batch 1/3 Cost: 8074.638672
+[tensor([[ 93.,  88.,  93.],
+        [ 96.,  98., 100.]]), tensor([[185.],
+        [196.]])]
+Epoch    0/20 Batch 2/3 Cost: 6176.809082
+[tensor([[89., 91., 90.]]), tensor([[180.]])]
+Epoch    0/20 Batch 3/3 Cost: 1125.908813
+[tensor([[89., 91., 90.],
+        [93., 88., 93.]]), tensor([[180.],
+        [185.]])]
+Epoch    1/20 Batch 1/3 Cost: 349.026672
+[tensor([[ 73.,  80.,  75.],
+        [ 96.,  98., 100.]]), tensor([[152.],
+        [196.]])]
+Epoch    1/20 Batch 2/3 Cost: 56.584900
+[tensor([[73., 66., 70.]]), tensor([[142.]])]
+Epoch    1/20 Batch 3/3 Cost: 46.607040
+[tensor([[73., 66., 70.],
+        [89., 91., 90.]]), tensor([[142.],
+        [180.]])]
+Epoch    2/20 Batch 1/3 Cost: 13.667624
+[tensor([[73., 80., 75.],
+        [93., 88., 93.]]), tensor([[152.],
+        [185.]])]
+Epoch    2/20 Batch 2/3 Cost: 4.888283
+[tensor([[ 96.,  98., 100.]]), tensor([[196.]])]
+Epoch    2/20 Batch 3/3 Cost: 0.578427
+[tensor([[ 96.,  98., 100.],
+        [ 93.,  88.,  93.]]), tensor([[196.],
+        [185.]])]
+Epoch    3/20 Batch 1/3 Cost: 3.663426
+[tensor([[73., 66., 70.],
+        [73., 80., 75.]]), tensor([[142.],
+        [152.]])]
+Epoch    3/20 Batch 2/3 Cost: 4.610943
+[tensor([[89., 91., 90.]]), tensor([[180.]])]
+Epoch    3/20 Batch 3/3 Cost: 0.714337
+[tensor([[93., 88., 93.],
+        [89., 91., 90.]]), tensor([[185.],
+        [180.]])]
+Epoch    4/20 Batch 1/3 Cost: 2.231029
+[tensor([[ 73.,  80.,  75.],
+        [ 96.,  98., 100.]]), tensor([[152.],
+        [196.]])]
+Epoch    4/20 Batch 2/3 Cost: 1.459630
+[tensor([[73., 66., 70.]]), tensor([[142.]])]
+Epoch    4/20 Batch 3/3 Cost: 9.510301
+[tensor([[ 96.,  98., 100.],
+        [ 89.,  91.,  90.]]), tensor([[196.],
+        [180.]])]
+Epoch    5/20 Batch 1/3 Cost: 3.157690
+[tensor([[73., 66., 70.],
+        [73., 80., 75.]]), tensor([[142.],
+        [152.]])]
+Epoch    5/20 Batch 2/3 Cost: 4.368526
+[tensor([[93., 88., 93.]]), tensor([[185.]])]
+Epoch    5/20 Batch 3/3 Cost: 2.422228
+[tensor([[ 96.,  98., 100.],
+        [ 73.,  66.,  70.]]), tensor([[196.],
+        [142.]])]
+Epoch    6/20 Batch 1/3 Cost: 4.741097
+[tensor([[93., 88., 93.],
+        [73., 80., 75.]]), tensor([[185.],
+        [152.]])]
+Epoch    6/20 Batch 2/3 Cost: 1.588527
+[tensor([[89., 91., 90.]]), tensor([[180.]])]
+Epoch    6/20 Batch 3/3 Cost: 1.970379
+[tensor([[89., 91., 90.],
+        [93., 88., 93.]]), tensor([[180.],
+        [185.]])]
+Epoch    7/20 Batch 1/3 Cost: 1.827546
+[tensor([[ 96.,  98., 100.],
+        [ 73.,  80.,  75.]]), tensor([[196.],
+        [152.]])]
+Epoch    7/20 Batch 2/3 Cost: 1.813846
+[tensor([[73., 66., 70.]]), tensor([[142.]])]
+Epoch    7/20 Batch 3/3 Cost: 9.100714
+[tensor([[ 93.,  88.,  93.],
+        [ 96.,  98., 100.]]), tensor([[185.],
+        [196.]])]
+Epoch    8/20 Batch 1/3 Cost: 2.757809
+[tensor([[73., 66., 70.],
+        [73., 80., 75.]]), tensor([[142.],
+        [152.]])]
+Epoch    8/20 Batch 2/3 Cost: 3.567628
+[tensor([[89., 91., 90.]]), tensor([[180.]])]
+Epoch    8/20 Batch 3/3 Cost: 1.859368
+[tensor([[ 96.,  98., 100.],
+        [ 73.,  80.,  75.]]), tensor([[196.],
+        [152.]])]
+Epoch    9/20 Batch 1/3 Cost: 1.149516
+[tensor([[89., 91., 90.],
+        [93., 88., 93.]]), tensor([[180.],
+        [185.]])]
+Epoch    9/20 Batch 2/3 Cost: 2.665785
+[tensor([[73., 66., 70.]]), tensor([[142.]])]
+Epoch    9/20 Batch 3/3 Cost: 7.436639
+[tensor([[89., 91., 90.],
+        [73., 66., 70.]]), tensor([[180.],
+        [142.]])]
+Epoch   10/20 Batch 1/3 Cost: 3.380012
+[tensor([[ 93.,  88.,  93.],
+        [ 96.,  98., 100.]]), tensor([[185.],
+        [196.]])]
+Epoch   10/20 Batch 2/3 Cost: 3.059645
+[tensor([[73., 80., 75.]]), tensor([[152.]])]
+Epoch   10/20 Batch 3/3 Cost: 1.648177
+[tensor([[ 96.,  98., 100.],
+        [ 73.,  66.,  70.]]), tensor([[196.],
+        [142.]])]
+Epoch   11/20 Batch 1/3 Cost: 4.534648
+[tensor([[73., 80., 75.],
+        [93., 88., 93.]]), tensor([[152.],
+        [185.]])]
+Epoch   11/20 Batch 2/3 Cost: 1.738716
+[tensor([[89., 91., 90.]]), tensor([[180.]])]
+Epoch   11/20 Batch 3/3 Cost: 1.174791
+[tensor([[ 96.,  98., 100.],
+        [ 93.,  88.,  93.]]), tensor([[196.],
+        [185.]])]
+Epoch   12/20 Batch 1/3 Cost: 2.487302
+[tensor([[73., 80., 75.],
+        [73., 66., 70.]]), tensor([[152.],
+        [142.]])]
+Epoch   12/20 Batch 2/3 Cost: 4.013978
+[tensor([[89., 91., 90.]]), tensor([[180.]])]
+Epoch   12/20 Batch 3/3 Cost: 1.148151
+[tensor([[ 96.,  98., 100.],
+        [ 73.,  80.,  75.]]), tensor([[196.],
+        [152.]])]
+Epoch   13/20 Batch 1/3 Cost: 0.855546
+[tensor([[89., 91., 90.],
+        [93., 88., 93.]]), tensor([[180.],
+        [185.]])]
+Epoch   13/20 Batch 2/3 Cost: 2.827483
+[tensor([[73., 66., 70.]]), tensor([[142.]])]
+Epoch   13/20 Batch 3/3 Cost: 7.572322
+[tensor([[ 89.,  91.,  90.],
+        [ 96.,  98., 100.]]), tensor([[180.],
+        [196.]])]
+Epoch   14/20 Batch 1/3 Cost: 4.275502
+[tensor([[73., 66., 70.],
+        [93., 88., 93.]]), tensor([[142.],
+        [185.]])]
+Epoch   14/20 Batch 2/3 Cost: 5.446642
+[tensor([[73., 80., 75.]]), tensor([[152.]])]
+Epoch   14/20 Batch 3/3 Cost: 2.544857
+[tensor([[ 89.,  91.,  90.],
+        [ 96.,  98., 100.]]), tensor([[180.],
+        [196.]])]
+Epoch   15/20 Batch 1/3 Cost: 1.718612
+[tensor([[93., 88., 93.],
+        [73., 66., 70.]]), tensor([[185.],
+        [142.]])]
+Epoch   15/20 Batch 2/3 Cost: 6.895905
+[tensor([[73., 80., 75.]]), tensor([[152.]])]
+Epoch   15/20 Batch 3/3 Cost: 2.009727
+[tensor([[73., 66., 70.],
+        [93., 88., 93.]]), tensor([[142.],
+        [185.]])]
+Epoch   16/20 Batch 1/3 Cost: 4.754983
+[tensor([[ 96.,  98., 100.],
+        [ 73.,  80.,  75.]]), tensor([[196.],
+        [152.]])]
+Epoch   16/20 Batch 2/3 Cost: 4.300100
+[tensor([[89., 91., 90.]]), tensor([[180.]])]
+Epoch   16/20 Batch 3/3 Cost: 0.567961
+[tensor([[73., 66., 70.],
+        [73., 80., 75.]]), tensor([[142.],
+        [152.]])]
+Epoch   17/20 Batch 1/3 Cost: 4.539996
+[tensor([[89., 91., 90.],
+        [93., 88., 93.]]), tensor([[180.],
+        [185.]])]
+Epoch   17/20 Batch 2/3 Cost: 1.688142
+[tensor([[ 96.,  98., 100.]]), tensor([[196.]])]
+Epoch   17/20 Batch 3/3 Cost: 2.694205
+[tensor([[ 93.,  88.,  93.],
+        [ 96.,  98., 100.]]), tensor([[185.],
+        [196.]])]
+Epoch   18/20 Batch 1/3 Cost: 2.920186
+[tensor([[89., 91., 90.],
+        [73., 66., 70.]]), tensor([[180.],
+        [142.]])]
+Epoch   18/20 Batch 2/3 Cost: 4.168148
+[tensor([[73., 80., 75.]]), tensor([[152.]])]
+Epoch   18/20 Batch 3/3 Cost: 1.032734
+[tensor([[93., 88., 93.],
+        [89., 91., 90.]]), tensor([[185.],
+        [180.]])]
+Epoch   19/20 Batch 1/3 Cost: 2.022788
+[tensor([[ 96.,  98., 100.],
+        [ 73.,  66.,  70.]]), tensor([[196.],
+        [142.]])]
+Epoch   19/20 Batch 2/3 Cost: 4.408418
+[tensor([[73., 80., 75.]]), tensor([[152.]])]
+Epoch   19/20 Batch 3/3 Cost: 1.073698
+[tensor([[73., 66., 70.],
+        [73., 80., 75.]]), tensor([[142.],
+        [152.]])]
+Epoch   20/20 Batch 1/3 Cost: 4.238095
+[tensor([[ 96.,  98., 100.],
+        [ 89.,  91.,  90.]]), tensor([[196.],
+        [180.]])]
+Epoch   20/20 Batch 2/3 Cost: 1.637221
+[tensor([[93., 88., 93.]]), tensor([[185.]])]
+Epoch   20/20 Batch 3/3 Cost: 4.697178
+------date-----------
+2021-04-14 04:19:58.778972
+------date-----------
+Epoch    0/20 Batch 1/3 Cost: 41113.117188
+Epoch    0/20 Batch 2/3 Cost: 15114.353516
+Epoch    0/20 Batch 3/3 Cost: 2914.068848
+Epoch    1/20 Batch 1/3 Cost: 1370.647949
+Epoch    1/20 Batch 2/3 Cost: 478.309692
+Epoch    1/20 Batch 3/3 Cost: 167.864883
+Epoch    2/20 Batch 1/3 Cost: 47.578381
+Epoch    2/20 Batch 2/3 Cost: 12.038261
+Epoch    2/20 Batch 3/3 Cost: 0.291033
+Epoch    3/20 Batch 1/3 Cost: 1.201365
+Epoch    3/20 Batch 2/3 Cost: 5.462041
+Epoch    3/20 Batch 3/3 Cost: 0.132051
+Epoch    4/20 Batch 1/3 Cost: 2.162177
+Epoch    4/20 Batch 2/3 Cost: 0.243811
+Epoch    4/20 Batch 3/3 Cost: 3.202656
+Epoch    5/20 Batch 1/3 Cost: 0.475635
+Epoch    5/20 Batch 2/3 Cost: 3.186823
+Epoch    5/20 Batch 3/3 Cost: 1.006970
+Epoch    6/20 Batch 1/3 Cost: 1.331502
+Epoch    6/20 Batch 2/3 Cost: 2.965676
+Epoch    6/20 Batch 3/3 Cost: 0.005705
+Epoch    7/20 Batch 1/3 Cost: 1.074909
+Epoch    7/20 Batch 2/3 Cost: 2.980311
+Epoch    7/20 Batch 3/3 Cost: 0.132284
+Epoch    8/20 Batch 1/3 Cost: 1.396020
+Epoch    8/20 Batch 2/3 Cost: 0.339647
+Epoch    8/20 Batch 3/3 Cost: 3.903422
+Epoch    9/20 Batch 1/3 Cost: 1.397154
+Epoch    9/20 Batch 2/3 Cost: 0.352477
+Epoch    9/20 Batch 3/3 Cost: 3.947439
+Epoch   10/20 Batch 1/3 Cost: 0.285599
+Epoch   10/20 Batch 2/3 Cost: 2.788144
+Epoch   10/20 Batch 3/3 Cost: 0.783756
+Epoch   11/20 Batch 1/3 Cost: 0.249956
+Epoch   11/20 Batch 2/3 Cost: 2.968009
+Epoch   11/20 Batch 3/3 Cost: 0.094516
+Epoch   12/20 Batch 1/3 Cost: 1.852945
+Epoch   12/20 Batch 2/3 Cost: 2.418239
+Epoch   12/20 Batch 3/3 Cost: 0.000148
+Epoch   13/20 Batch 1/3 Cost: 1.686046
+Epoch   13/20 Batch 2/3 Cost: 1.844104
+Epoch   13/20 Batch 3/3 Cost: 1.382677
+Epoch   14/20 Batch 1/3 Cost: 0.348662
+Epoch   14/20 Batch 2/3 Cost: 1.804519
+Epoch   14/20 Batch 3/3 Cost: 3.919598
+Epoch   15/20 Batch 1/3 Cost: 2.395815
+Epoch   15/20 Batch 2/3 Cost: 0.649023
+Epoch   15/20 Batch 3/3 Cost: 2.751359
+Epoch   16/20 Batch 1/3 Cost: 0.975732
+Epoch   16/20 Batch 2/3 Cost: 0.292900
+Epoch   16/20 Batch 3/3 Cost: 5.129047
+Epoch   17/20 Batch 1/3 Cost: 3.286738
+Epoch   17/20 Batch 2/3 Cost: 0.043845
+Epoch   17/20 Batch 3/3 Cost: 2.641865
+Epoch   18/20 Batch 1/3 Cost: 1.583101
+Epoch   18/20 Batch 2/3 Cost: 2.680978
+Epoch   18/20 Batch 3/3 Cost: 0.008826
+Epoch   19/20 Batch 1/3 Cost: 1.508450
+Epoch   19/20 Batch 2/3 Cost: 2.004688
+Epoch   19/20 Batch 3/3 Cost: 0.003138
+Epoch   20/20 Batch 1/3 Cost: 1.411774
+Epoch   20/20 Batch 2/3 Cost: 2.200446
+Epoch   20/20 Batch 3/3 Cost: 0.691921
